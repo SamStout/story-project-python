@@ -98,7 +98,7 @@ def option_do_it():
         log_message(choice)
         if choice in answer_A: 
             print("    ")
-            (print("Cool, heres a map"))
+            (print("Cool, heres a map and some rings"))
         elif choice in answer_B:
             print("    ")
             (print("'You cannot pass' the wizard says"))
