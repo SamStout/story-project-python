@@ -20,7 +20,7 @@ def first_choice():
     print("    ")
     print(" Welcome to Middle Earth ")
     print("    ")
-    print(" An old man comes  to ur hole and tells you to return some jewelery" )
+    print(" An old man comes to ur hole and tells you to return some jewelery" )
     print("to a volcano without a receipt")
     print("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
     time.sleep(1)
@@ -79,7 +79,7 @@ def option_do_it():
             print("    ")
         elif choice in answer_B:
             print("    ")
-            (print("You have chosen wrong and you died"))
+            (print("'You cannot pass' the wizard says"))
             print("    ")
         else: 
             print("    ")
